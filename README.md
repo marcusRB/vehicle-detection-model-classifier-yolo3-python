@@ -1,6 +1,6 @@
 # Car Make and Model classification example with YOLOv3 object detector
 
-- Modificado por mí: dplazau
+- Modificado por mí: [dplazau](https://github.com/dplazau)
 - Modificado por dplazau
 
 Download complete Project and Weights:
