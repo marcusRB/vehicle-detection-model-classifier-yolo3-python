@@ -1,7 +1,7 @@
 import numpy as np
 import json
 #import tensorflow as tf
-import tensorflow.compat.v1 as tf
+#import tensorflow.compat.v1 as tf
 from PIL import Image, ImageOps
 import cv2
 import io
